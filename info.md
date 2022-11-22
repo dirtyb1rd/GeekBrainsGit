@@ -17,3 +17,5 @@
 > git branch name - создать ветку с именем name
 
 >git checkout name - переключится на ветку с именем name
+
+> git merge name - слияние ветки name с веткой мастер
