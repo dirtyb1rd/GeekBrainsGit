@@ -15,3 +15,5 @@
 >git checkout name - перейти к последней версии файла, указав в name главную ветку
 
 > git branch name - создать ветку с именем name
+
+>git checkout name - переключится на ветку с именем name
