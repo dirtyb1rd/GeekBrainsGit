@@ -25,8 +25,5 @@
 
 > git branch name - создание вектки с именем name
 
-<<<<<<< HEAD
 > git checkout name - переход к ветке с именем name
-=======
 > git branch -d name - удалить ветку с именем name
->>>>>>> new-2
