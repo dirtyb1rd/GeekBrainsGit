@@ -27,3 +27,5 @@
 
 > git checkout name - переход к ветке с именем name
 > git branch -d name - удалить ветку с именем name
+
+> **Домашняя работа**
